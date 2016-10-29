@@ -1,0 +1,404 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.918394,42.2291531 ]
+    },
+    "properties": {
+    "FIELD1":1,
+    "obsDt":"2016-10-09 14:56",
+    "locName":"US-New York-Castle Creek-1118 Castle Creek Rd - 42.229x-75.918",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"TRUE",
+    "howMany":"4",
+    "locID":"L4650578"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.939463,42.032165 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "obsDt":"2016-10-09 06:55",
+    "locName":"Aquaterra Park",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"FALSE",
+    "howMany":"1",
+    "locID":"L209925"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.8815169,42.1781776 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "obsDt":"2016-10-08 09:37",
+    "locName":"Boland Pond",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"FALSE",
+    "howMany":"1",
+    "locID":"L505437"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1694748,42.0812805 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "obsDt":"2016-10-08 09:15",
+    "locName":"Waterman Conservation Education Center",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"FALSE",
+    "howMany":"2",
+    "locID":"L212836"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9065816,42.1128121 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "obsDt":"2016-10-07 16:16",
+    "locName":"Cheri A. Lindsey Park River Walk",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"FALSE",
+    "howMany":"3",
+    "locID":"L1869625"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9833262,42.1610683 ]
+    },
+    "properties": {
+    "FIELD1":6,
+    "obsDt":"2016-10-07 14:35",
+    "locName":"Finch Hollow Nature Center",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"FALSE",
+    "howMany":"2",
+    "locID":"L1006547"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.8338125,42.2064101 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "obsDt":"2016-10-07 12:05",
+    "locName":"Chenango Valley SP",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"FALSE",
+    "howMany":"3",
+    "locID":"L212476"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9048414,41.941409 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "obsDt":"2016-10-07 11:50",
+    "locName":"PA-Sq-Kirchmeier Farm",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"TRUE",
+    "howMany":"2",
+    "locID":"L917161"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9630454,42.1462958 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "obsDt":"2016-10-07 08:39",
+    "locName":"Home ",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"TRUE",
+    "howMany":"3",
+    "locID":"L275793"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9825812,42.1145017 ]
+    },
+    "properties": {
+    "FIELD1":10,
+    "obsDt":"2016-10-06 12:00",
+    "locName":"Susquehanna River behind Home Depot",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"TRUE",
+    "howMany":"1",
+    "locID":"L4931242"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9110038,42.1064931 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "obsDt":"2016-10-06 09:30",
+    "locName":"Water St. River Walk",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"FALSE",
+    "howMany":"4",
+    "locID":"L2455810"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.997683,42.1087685 ]
+    },
+    "properties": {
+    "FIELD1":12,
+    "obsDt":"2016-10-06 08:00",
+    "locName":"Murphys Pits (restricted access)",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"FALSE",
+    "howMany":"3",
+    "locID":"L978114"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.0129688,42.099743 ]
+    },
+    "properties": {
+    "FIELD1":13,
+    "obsDt":"2016-10-06 07:45",
+    "locName":"Harold Moore Park",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"FALSE",
+    "howMany":"1",
+    "locID":"L1464971"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.020804,42.0542779 ]
+    },
+    "properties": {
+    "FIELD1":14,
+    "obsDt":"2016-10-05 10:54",
+    "locName":"Sheedy Rd., Vestal",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"TRUE",
+    "howMany":"1",
+    "locID":"L4316865"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.905288,42.1053355 ]
+    },
+    "properties": {
+    "FIELD1":15,
+    "obsDt":"2016-10-04 09:30",
+    "locName":"K-mart",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"TRUE",
+    "howMany":"NA",
+    "locID":"L1359831"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.8720416,42.1722467 ]
+    },
+    "properties": {
+    "FIELD1":16,
+    "obsDt":"2016-10-04 08:50",
+    "locName":"US-New York-Binghamton- 8 Hospital Hill Road - 42.172x-75.872",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"TRUE",
+    "howMany":"1",
+    "locID":"L4968911"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9054288,41.76206 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "obsDt":"2016-10-03 13:45",
+    "locName":"Joyce Stone's Property - Woodbourne Forest and Wildlife Preserve",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"TRUE",
+    "howMany":"2",
+    "locID":"L1793977"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.04759,42.096123 ]
+    },
+    "properties": {
+    "FIELD1":18,
+    "obsDt":"2016-10-02 15:35",
+    "locName":"Chugnut River Walk",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"FALSE",
+    "howMany":"5",
+    "locID":"L166652"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.98304,42.125027 ]
+    },
+    "properties": {
+    "FIELD1":19,
+    "obsDt":"2016-10-02 10:37",
+    "locName":"Victory St. JC",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"TRUE",
+    "howMany":"5",
+    "locID":"L166647"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.0873818,42.0795713 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "obsDt":"2016-10-01 10:20",
+    "locName":"Castle Gardens",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"TRUE",
+    "howMany":"12",
+    "locID":"L2728020"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.9165305,42.1282255 ]
+    },
+    "properties": {
+    "FIELD1":21,
+    "obsDt":"2016-09-27 08:56",
+    "locName":"Rosedale Dr., Binghamton",
+    "obsValid":"TRUE",
+    "comName":"American Goldfinch",
+    "obsReviewed":"FALSE",
+    "sciName":"Spinus tristis",
+    "locationPrivate":"TRUE",
+    "howMany":"1",
+    "locID":"L4902744"
+    }
+  }
+]
+}
